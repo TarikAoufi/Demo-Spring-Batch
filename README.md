@@ -11,7 +11,7 @@ Demo sur l'utilisation d'un cas simple de Spring Batch:
 	  et un deuxième pour le calcul du total des montants débit/crédit.
 
 
-	+ Pour exécuter le job :					http://localhost:8080/startJob
+	+ Pour exécuter le job :			http://localhost:8080/startJob
 	+ Renvoyer les montants débit et crédit :	http://localhost:8080/amounts	
 	+ Visualiser les transactions en BD :		http://localhost:8080/h2-console
 	
