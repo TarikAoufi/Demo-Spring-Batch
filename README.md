@@ -5,10 +5,6 @@ Demo sur l'utilisation d'un cas simple de Spring Batch:
 	- Le job par défaut n'est pas exécuté au démarrage (spring.batch.job.enabled=false), 
 
 	  il sera démarré via une action dans une API REST.
-	  
-	- Un traitement pour l'écriture de la date de transaction, 
-	 
-	  et un deuxième pour le calcul du total des montants débit/crédit.
 
 
 	+ Pour exécuter le job :			http://localhost:8080/startJob
