@@ -1,4 +1,4 @@
-Demo sur l'utilisation d'un cas simple de Spring Batch: 
+Demo sur l'utilisation d'un cas simple de Spring Batch:
 
 	- Lecture d'un fichier csv en entrée, et écriture en base de données H2.
 
